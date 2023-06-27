@@ -1,0 +1,8 @@
+aws:
+  access:
+    key:
+      id: test
+  secret:
+    access:
+      key: test
+  url: http://localhost:4566
