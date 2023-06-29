@@ -1,2 +1,2 @@
-# spring-cloud-aws-localstack
-Playground for Spring Cloud AWS with Localstack in docker compose
+# spring-cloud-aws-localstack-s3
+Playground for Spring Cloud AWS with Localstack S3 in docker compose
